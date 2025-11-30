@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW11,SW13,SW12,SW14,SW10,SW9";"SW_Cherry_MX_1.00u_PCB";6;"SW_Push_45deg";;;
+2;"D3,D6,D2,D4,D5,D1";"D_DO-35_SOD27_P7.62mm_Horizontal";6;"1N4148";;;
+3;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
+4;"U2";"SSD1306-0.91-OLED-4pin-128x32";1;"~";;;
+5;"SW1";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles";1;"RotaryEncoder";;;
