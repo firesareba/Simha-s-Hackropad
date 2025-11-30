@@ -1,7 +1,7 @@
 # Simha's Macropad RP2040
 
 This is a custom 2x3 macropad with a rotary encoder and an OLED screen.
-![Simha_Macropad_Main_Image]
+![image](https://github.com/firesareba/Simha-s-Hackropad/blob/d07858936782be31b3da56834d2cbd88fa9aed29/Screenshot%202025-11-29%20215759.png)
 
 ### Inspiration
 
@@ -34,7 +34,7 @@ THANKS HACK CLUB!
 | Schematic | PCB | Case |
 | :---: | :---: | :---: |
 | ![Simha Macropad Schematic] | ![Simha Macropad PCB] | ![Simha Macropad Case] |
-![image](https://github.com/user-attachments/assets/8ce0ab16-e0b0-42d0-b748-d4ee08ce5972)    |  ![image](https://github.com/user-attachments/assets/556275d9-b148-4d51-b6e8-0c6bf95b5a16)  | ![image](https://github.com/user-attachments/assets/bcfd98e1-e562-48c3-b617-4d55031ebec4)
+![image](https://github.com/firesareba/Simha-s-Hackropad/blob/d07858936782be31b3da56834d2cbd88fa9aed29/unnamed.png)    |  ![image](https://github.com/firesareba/Simha-s-Hackropad/blob/d07858936782be31b3da56834d2cbd88fa9aed29/Screenshot%202025-11-29%20215950.png)  | ![image](https://github.com/firesareba/Simha-s-Hackropad/blob/d07858936782be31b3da56834d2cbd88fa9aed29/Screenshot%202025-11-29%20221238.png)
 
 **Notes:**
 
