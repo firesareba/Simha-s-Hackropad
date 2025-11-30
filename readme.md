@@ -29,6 +29,8 @@ THANKS HACK CLUB!
 
 ---
 
+****A BOM CSV is also included but doesn't account for things outside the PCB***
+
 **Visuals:**
 
 | Schematic | PCB | Case |
