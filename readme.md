@@ -11,6 +11,8 @@ I wanted to create a macropad that was both functional and aesthetically pleasin
 
 This was my first time using Fusion 360. It was a really cool experience to learn. A lot of my friends tell me to use Onshape so I might stick with that in the future because Fusion360 was very clunky in my opinion. I was first very intimidated by having to create a entire PCB from scratch but the guide was super useful and taught me the basics of KiCad (i might make my own board one day). I big issue for me was creating the firmware, as QMK was just not complying so I went with a KMK firmware instead.
 
+A big challenge is I could not find a accurate symbol for the schematic so I learned to make one!
+
 THANKS HACK CLUB! 
 
 ### Specifications
@@ -41,3 +43,5 @@ THANKS HACK CLUB!
 **Notes:**
 
 I might add QMK later if it works
+
+***3D MODELS ON COMPONENTS MAY NOT BE ACCURATE AND EXIST FOR VISUALS ONLY***
